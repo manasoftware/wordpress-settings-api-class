@@ -1,5 +1,6 @@
 <?php
 
+namespace ManaSoftware\WordpressSettingsAPI;
 /**
  * weDevs Settings API wrapper class
  *
